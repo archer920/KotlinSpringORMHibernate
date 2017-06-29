@@ -1,4 +1,4 @@
-package com.stonesoupprogramming.jdbc
+package com.stonesoupprogramming.hibernate
 
 import org.junit.Test
 import org.junit.runner.RunWith
